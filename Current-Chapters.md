@@ -264,8 +264,8 @@ Teresa Del Bianco
 
 Parvaneh Shafiei
 
-- meetup:
-- twitter:
+- meetup: https://www.meetup.com/R-Ladies-Milan/
+- twitter: https://twitter.com/RladiesMilan
 - email:
 
 
